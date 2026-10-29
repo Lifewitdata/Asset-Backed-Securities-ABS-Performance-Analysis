@@ -1,0 +1,9 @@
+{
+  "raw_rows": 1753,
+  "clean_rows": 1752,
+  "exact_duplicates_removed": 1,
+  "securities": 24,
+  "months": 73,
+  "seed": 42,
+  "data_type": "synthetic"
+}

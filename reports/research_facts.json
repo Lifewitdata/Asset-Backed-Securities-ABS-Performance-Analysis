@@ -1,0 +1,7 @@
+{
+  "data_type": "synthetic",
+  "securities": 24,
+  "clean_rows": 1752,
+  "backtest_months": 48,
+  "best_forecast_by_mae": "OLS"
+}
